@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img src = "https://github.com/Programmer1245/Programmer1245/blob/output/github-contribution-grid-snake-dark.svg" />
 
 
-<a href="https://stardev.io/developers/Murad9288"><img alt="Check out 💞️ Murad9288's 🔥 profile 🔥 on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/🔥country.svg?" /></a>
+
 
 
 
@@ -36,26 +36,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-.image-rounded {
-	border-radius: 4px;
-	display: inline-block;
-}
-
-.image-rounded img {
-	visibility: hidden;
-}
-
-<style>
-	.image-rounded {
-		border-radius: 4px;
-		display: inline-block;
-	}
-	
-	img {
-		visibility: hidden;
-	}
-</style>
-
-<span class="image-rounded" style="background: [[url](https://stardev.io/developers/Murad9288/badge/languages/country.svg)] no-repeat 0 0;">
-	<img src="https://stardev.io/developers/Murad9288/badge/languages/country.svg" />
-</span>
