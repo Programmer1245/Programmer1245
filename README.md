@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-`<details><summary><h3>CLICK TO SEE MY SOCIAL & BLOG LINKS: 🤏</h3></h3></summary>`
+<details>`<summary><h3>CLICK TO SEE MY SOCIAL & BLOG LINKS: 🤏</h3></h3></summary>`
 
 <div align = "center">
   
