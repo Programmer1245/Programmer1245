@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img src = "https://github.com/Programmer1245/Programmer1245/blob/output/github-contribution-grid-snake-dark.svg" />
 
 
-<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?user=Murad9288&border_radius=100" /></a>
+<a href="https://stardev.io/developers/Murad9288"><img alt="Check out 💞️ Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?user=Murad9288&border_radius=100" /></a>
 
 
 
