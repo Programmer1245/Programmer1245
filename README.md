@@ -34,3 +34,19 @@ You can click the Preview link to take a look at your changes.
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer1245&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="programmer1245" height="140px" width = "1000px" /></p>|
   
 </div>
+
+
+<style>
+	.image-rounded {
+		border-radius: 4px;
+		display: inline-block;
+	}
+	
+	img {
+		visibility: hidden;
+	}
+</style>
+
+<span class="image-rounded" style="background: [[url](https://stardev.io/developers/Murad9288/badge/languages/country.svg)] no-repeat 0 0;">
+	<img src="https://stardev.io/developers/Murad9288/badge/languages/country.svg" />
+</span>
