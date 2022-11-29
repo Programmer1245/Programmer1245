@@ -36,6 +36,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+.image-rounded {
+	border-radius: 4px;
+	display: inline-block;
+}
+
+.image-rounded img {
+	visibility: hidden;
+}
+
 <style>
 	.image-rounded {
 		border-radius: 4px;
