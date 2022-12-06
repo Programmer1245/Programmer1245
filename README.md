@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MD Miraz Hossain
+- 👋 Hi, I’m M. Raj
 - 👀 I’m interested in competitive programmers. <img align="right" width="100" height="100" radius = "20px" src="http://www.fillmurray.com/100/100">
 - 🌱 I’m currently learning competitive programming.
 - 💞️ I’m looking to collaborate on advanced competitive programming learning.
