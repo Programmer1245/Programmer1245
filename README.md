@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=60&duration=3500&pause=1500&color=28F71A&multiline=true&width=1375&height=80&lines=ASSALAMUALAIKUM++++WARAHMATULLAH)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=60&duration=4000&pause=1700&color=28F71A&width=1200&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH)](https://git.io/typing-svg)
 
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=60&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH)](https://git.io/typing-svg)
